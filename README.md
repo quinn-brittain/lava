@@ -13,7 +13,7 @@ Luke Sampson's GitWiki page on the subject: https://github.com/lukesampson/scoop
 This is my own personal selection of additonal scoop apps, but 
 feel free to add this bucket to your own scoop.
 
-### How to Add a Bucket
+### How to add a bucket
 You can add a bucket using
 ``` scoop bucket add <name-of-bucket> <location-of-git-repo> ```
 
