@@ -3,12 +3,11 @@ A bucket of additional scoop apps
 
 ### What is scoop?
 Scoop is a command-line installer / Package manager for Windows.
-Full Details on Luke Sampson's Git Repo:
-https://github.com/lukesampson/scoop
+
+Full Details on Luke Sampson's Git Repo: https://github.com/lukesampson/scoop
 
 ### What is a scoop bucket?
-Luke Sampson's GitWiki page on the subject:
-https://github.com/lukesampson/scoop/wiki/Buckets
+Luke Sampson's GitWiki page on the subject: https://github.com/lukesampson/scoop/wiki/Buckets
 
 ## Usage
 This is my own personal selection of additonal scoop apps, but 
