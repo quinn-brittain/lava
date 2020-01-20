@@ -18,4 +18,4 @@ You can add a bucket using
 ``` scoop bucket add <name-of-bucket> <location-of-git-repo> ```
 
 ## Credit
-All credit goes to [lukesampson](https://github.com/lukesampson) for making this amazing installer work.
+All credit goes to [lukesampson](https://github.com/lukesampson) for making this amazing package manager work.
