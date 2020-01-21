@@ -1,0 +1,25 @@
+{
+    "homepage": "https://github.com/debauchee/barrier",
+    "license": {
+        "identifier": "GPL-2.0-only",
+        "url": "https://github.com/debauchee/barrier/blob/master/LICENSE"
+    },
+    "version": "2.3.2",
+    "url": "https://github.com/debauchee/barrier/releases/download/v2.3.2/BarrierSetup-2.3.2.exe",
+    "hash": "a6a195c55c199b35c737d7494327b37da94ded4eb2592871d4ad747aa8baa39a",
+    "bin": "barrier.exe",
+    "shortcuts": [
+        [
+            "barrier.exe",
+            "Barrier"
+        ]
+    ],
+    "persist": [
+        "config",
+        "barrier.conf"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/debauchee/barrier/releases/download/v$version/BarrierSetup-$version.exe"
+    }
+}
