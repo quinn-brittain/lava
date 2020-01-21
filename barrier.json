@@ -7,6 +7,7 @@
     "version": "2.3.2",
     "url": "https://github.com/debauchee/barrier/releases/download/v2.3.2/BarrierSetup-2.3.2.exe",
     "hash": "a6a195c55c199b35c737d7494327b37da94ded4eb2592871d4ad747aa8baa39a",
+    "intstaller": "BarrierSetup-2.3.2.exe",
     "bin": "barrier.exe",
     "shortcuts": [
         [
